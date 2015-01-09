@@ -9,7 +9,11 @@ Welcome to KnowledgeManange's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+    
+   Stage_1
+   Stage_2
+   Stage_3
 
 
 
