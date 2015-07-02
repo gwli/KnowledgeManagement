@@ -21,5 +21,4 @@
 
 可计算文档最早是由`cdf <http://www.wolfram.com/cdf/>`_ .开源的 ipython notebook 是一种开源的实现，现在一种好的作法，把notebook存在 github之类的托管服务上，然后直接用http://nbviewer.ipython.org/ 来直接查看。另外国内做可计算文档还有 `数苑 http://www.math168.com/` 在做。更强的 `知识引擎 http://www.wolframalpha.com/`_ 的出现， 所以现在让学生花大量的时间去训练演算技巧是多么的可笑。 现在需要是扔掉纸和笔来演算而是用 知识引擎来演算 `Wolffram Problem Generator <http://www.wolframalpha.com/pro/problem-generator/?source=nav>`_  再加上各种网上公开课以及在线教育的发展，你还在上名校发愁吗，所谓的名校就真的好嘛，你能并且有时间做到因材施教呢，并且不厌其烦的给你讲嘛。 为什么要为大多数同学，而牺牲自己的兴趣呢。
 
-为什么需要去学校学习，是因为之前知识的获取比较困难，并且知识的传播者比较少，为了实现效益的最大化，我们才有了学校的存在。而现在只有 `wolfram Alpha App for Android <http://products.wolframalpha.com/android/>`_  知识就在你手指边。 还有非得去学校的必要嘛。
-
+为什么需要去学校学习，是因为之前知识的获取比较困难，并且知识的传播者比较少，为了实现效益的最大化，我们才有了学校的存在。而现在只有 `wolfram Alpha App for Android <http://products.wolframalpha.com/android/>`_  知识就在你手指边。 还有非得去学校的必要嘛。不要让上学成为你受教育的制约。
